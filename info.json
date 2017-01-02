@@ -23,7 +23,7 @@
 
 	"wavedash(ing)?":
 	{
-		"Name": "Waveshine",
+		"Name": "Wavedash",
 
 		"Description":
 		[
@@ -407,7 +407,7 @@
 		}
 	},
 
-	"jabreset":
+	"jabreset(ting)?":
 	{
 		"Name": "Jab Reset",
 
