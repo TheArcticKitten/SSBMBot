@@ -7,4 +7,5 @@ It's purpose is to respond to comments with queries such as "!doraki" in which t
 
 I made this using the PRAW API for python, a JSON file to store all queries and responses (didn't do in initial commit), and a text file storing all the IDs of the comments it has replied to prevent replying to a single comment multiple times.
 
+https://gyazo.com/4d1d04d8bbfb74da5ec79867aeca5331   <--- picture of it in action
 //TODO: Fix so it can handle multiple queries/responses for a single comment.
